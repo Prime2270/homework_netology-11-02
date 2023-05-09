@@ -22,18 +22,18 @@
 `Установите и запустите memcached.`
 `Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен`
 
-![job2]()
+![job2](https://github.com/Prime2270/homework_netology-11-02/blob/main/screenshots/job2.png)
 
 ### Задание 3 Удаление по TTL в Memcached
 
 `Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.`
 `Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.`
 
-![job3]()
+![job3](https://github.com/Prime2270/homework_netology-11-02/blob/main/screenshots/job3.png)
 
 ### Задание 4 Запись данных в Redis
 
 `Запишите в Redis несколько ключей с любыми именами и значениями.`
 `Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.`
 
-![job4]()
+![job4](https://github.com/Prime2270/homework_netology-11-02/blob/main/screenshots/job4.png)
